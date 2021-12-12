@@ -1,19 +1,33 @@
 # Assessing_Security_Culture
 Showcasing knowledge of "Governance, Risk, and Compliance" in regards to a fictional company called SilverCorp
 
+# Scenario
+
+- Employees at SilverCorp are increasingly using their own personal devices for company work.
+
+- Specifically, over half of all employees check their work email and communications via Slack on their personal mobile phones.
+
+- Another 25% of employees are doing other work-related activities using work accounts and work-related applications on their personal phone.
+
+- Allowing sensitive work information to be shared on employees’ personal devices has a number of security implications.
+
+- You must research these security risks and use the security culture framework to develop a plan to mitigate the concerns.
 
 # Step 1: Measure and Set Goals
 
-Using outside research, indicate the potential security risks of allowing employees to access work information on their personal devices. Identify at least three potential attacks that can be carried out.
+1. Using outside research, indicate the potential security risks of allowing employees to access work information on their personal devices. Identify at least three potential attacks that can be carried out.
+
 Allowing employees to access work information on their personal devices can lead to phishing/downloading of malware, an insider attack from a disgruntled employee, or sniffing if the employees use their devices outside of work on an unsecure WiFi network. 
-Based on the above scenario, what is the preferred employee behavior?
+
+2. Based on the above scenario, what is the preferred employee behavior?
+
 Some preferred behaviors include:
-Employees should not be opening emails, downloading attachments/files or clicking through to links from senders they do not recognize.
-Employees should not be using their personal devices to access work related data such as emails, client info, etc. If this must be done for any reason, all employees must connect through a VPN.
-Employees must avoid using their devices on unsecure networks, especially when using their device for work related tasks.
-Employees should change their passwords and implement two-factor authentication for devices and software.
-Employees must take advantage of encrypting data
-What methods would you use to measure how often employees are currently not behaving according to the preferred behavior?
+- Employees should not be opening emails, downloading attachments/files or clicking through to links from senders they do not recognize.
+- Employees should not be using their personal devices to access work related data such as emails, client info, etc. If this must be done for any reason, all employees must connect through a VPN.
+- Employees must avoid using their devices on unsecure networks, especially when using their device for work related tasks.
+- Employees should change their passwords and implement two-factor authentication for devices and software.
+- Employees must take advantage of encrypting data
+- What methods would you use to measure how often employees are currently not behaving according to the preferred behavior?
 
 
 Send fake phishing emails and log the number of employees who click on the link provided. Repeat offenders will be made note of.
