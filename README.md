@@ -27,31 +27,38 @@ Some preferred behaviors include:
 - Employees must avoid using their devices on unsecure networks, especially when using their device for work related tasks.
 - Employees should change their passwords and implement two-factor authentication for devices and software.
 - Employees must take advantage of encrypting data
-- What methods would you use to measure how often employees are currently not behaving according to the preferred behavior?
 
+3. What methods would you use to measure how often employees are currently not behaving according to the preferred behavior?
 
 Send fake phishing emails and log the number of employees who click on the link provided. Repeat offenders will be made note of.
 Keep a list of all employee’s IP addresses and logging how many unfamiliar address try to access the company’s network
-What is the goal that you would like the organization to reach regarding this behavior?
 
+4. What is the goal that you would like the organization to reach regarding this behavior?
 
 Once the numbers come in for the methods stated above, there will be a more realistic goal to place on the organization. In the meantime, all click throughs of the phishing emails should be well under 5%
+
 As for the employees using their personal devices, it was mentioned that 50% use their phones for Slack and 25% of employees are using work accounts to access work data, etc. This number percentage needs to  be cut in half.
-Step 2: Involve the Right People
-Now that you have a goal in mind, who needs to be involved?
-CEO
-The CEO will keep meetings with the executives of the organization. Discussions about any information, updates of the security plan and what improvements need to be made will be had amongst themselves. The CEO will also report to the board of directors and will explain the overall direction of the company once the security precautions are put in place.
-CISO
-The CISOs will manage the risk to the organization's data. They will keep the organization aware of any hiccups in the plan to mitigate risks at SilverCorp.
-CIO
-The CIO will develop IT systems that will support the business in cybersecurity. The CIOs will enforce the technical aspect of the plan. They will also report to the CEO of any progress and updates when required.
-COO
-The COOs will be in charge of any courses, presentations, surveys, training and awareness of security threats and threat actors. They will also report to the CEO with any progress and updates.
-Manager or HR representative
-These individuals will ensure passwords are being changed on a regular basis, communicate any/all security risks, monitor for physical theft, educate the employees on how to use the VPN as they have a closer connection to the staff
-Step 3: Training Plan
-Training is part of any security culture framework plan. How will you train your employees on this security concern? In one page, indicate the following:
+
+# Step 2: Involve the Right People
+
+1. Now that you have a goal in mind, who needs to be involved?
+
+- CEO
+	- The CEO will keep meetings with the executives of the organization. Discussions about any information, updates of the security plan and what improvements need to be made will be had amongst themselves. The CEO will also report to the board of directors and will explain the overall direction of the company once the security precautions are put in place.
+- CISO
+	- The CISOs will manage the risk to the organization's data. They will keep the organization aware of any hiccups in the plan to mitigate risks at SilverCorp.
+- CIO
+	- The CIO will develop IT systems that will support the business in cybersecurity. The CIOs will enforce the technical aspect of the plan. They will also report to the CEO of any progress and updates when required.
+- COO
+	- The COOs will be in charge of any courses, presentations, surveys, training and awareness of security threats and threat actors. They will also report to the CEO with any progress and updates.
+- Manager or HR representative
+	- These individuals will ensure passwords are being changed on a regular basis, communicate any/all security risks, monitor for physical theft, educate the employees on how to use the VPN as they have a closer connection to the staff
+
+# Step 3: Training Plan
+
+1. Training is part of any security culture framework plan. How will you train your employees on this security concern? In one page, indicate the following:
 How frequently will you run training? What format will it take? (i.e. in-person, online, a combination of both)
+
 Training will consist of both in-person and online sessions that require mandatory attendance. The entire training process will be done annually, lasting for about one business week. Each session will last 45 minutes, so that employees can maintain a better attention span during the training. In-person training is preferred due to the fact that online sessions can not guarantee a full attendance or attention. 
 To better gauge employee knowledge, a mandatory online quiz on all the topics mentioned will be taken before the training week. 
 What topics will you cover in your training and why? (This should be the bulk of the deliverable.)
