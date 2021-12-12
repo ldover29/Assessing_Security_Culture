@@ -96,6 +96,7 @@ Training alone often isn't the entire solution to a security concern.
 - Backup data is a compensating control because if a breach were to happen, the backup data will help the organization recover after being compromised.
 
 4. What is one advantage of each solution?
+
 The advantage of data encryption is that it separates the data from the device it is stored on. Encryption allows extra security, so administrators can store and transmit data on unsecured networks. This would be a good solution for employees who insist on using their personal devices for work related tasks.
 
 The advantage of backing up data is that it is easy and cost effective.
