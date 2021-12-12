@@ -61,38 +61,46 @@ How frequently will you run training? What format will it take? (i.e. in-person,
 
 Training will consist of both in-person and online sessions that require mandatory attendance. The entire training process will be done annually, lasting for about one business week. Each session will last 45 minutes, so that employees can maintain a better attention span during the training. In-person training is preferred due to the fact that online sessions can not guarantee a full attendance or attention. 
 To better gauge employee knowledge, a mandatory online quiz on all the topics mentioned will be taken before the training week. 
-What topics will you cover in your training and why? (This should be the bulk of the deliverable.)
+
+2. What topics will you cover in your training and why? (This should be the bulk of the deliverable.)
+
 The in-person sessions will cover the importance of cybersecurity, following policy and maintaining good employee behavior through presentations, lessons and quizzes. 
+
 Topics like: 
-The dangers of phishing emails and how they can appear as emails from upper management or a reputable/ popular company like amazon. It will be made very clear not to click any links and that upper management will never ask for phone numbers, passwords, or favours (like buying gift cards) through email.  
-How destructive downloading malware can be. The existence and function of viruses, trojans, worms, ransomware will be taught and discussed. It will be explained that malware can be downloaded and work behind the scenes without knowledge.
-The importance of using a VPN, 
-The risk of using a personal device for work related tasks and physical theft will be discussed. The risk of unsecure internet networks will be covered, as well as how sniffing, brute forcing and code injection work and could possibly go hand in hand. It will then be explained that not only can the organization’s data be easily breached on a personal device, but so can the individual’s personal data.
-How to protect personal devices with complex passwords, two factor authentication, VPNs, firewalls, antivirus software, etc.
-The alternatives and steps that need to be taken to ensure cybersecurity. For example, changing passwords, prohibited use of personal devices for work related tasks, logging out of sessions when away from the computer, confidentiality contracts, 
-After you’ve run your training, how will you measure its effectiveness?
+- The dangers of phishing emails and how they can appear as emails from upper management or a reputable/ popular company like amazon. It will be made very clear not to click any links and that upper management will never ask for phone numbers, passwords, or favours (like buying gift cards) through email.  
+- How destructive downloading malware can be. The existence and function of viruses, trojans, worms, ransomware will be taught and discussed. It will be explained that malware can be downloaded and work behind the scenes without knowledge.
+- The importance of using a VPN
+- The risk of using a personal device for work related tasks and physical theft will be discussed. The risk of unsecure internet networks will be covered, as well as how sniffing, brute forcing and code injection work and could possibly go hand in hand. It will then be explained that not only can the organization’s data be easily breached on a personal device, but so can the individual’s personal data.
+- How to protect personal devices with complex passwords, two factor authentication, VPNs, firewalls, antivirus software, etc.
+- The alternatives and steps that need to be taken to ensure cybersecurity. For example, changing passwords, prohibited use of personal devices for work related tasks, logging out of sessions when away from the computer, confidentiality contracts, 
+
+3. After you’ve run your training, how will you measure its effectiveness?
+
 After training week has ended, another mandatory online quiz will be taken afterward to see if any and all information was retained during training week.
 Also, fake phishing emails will be sent out regularly with the number of employees who click on the link provided being logged. All Repeat offenders will be made note of and must repeat training. If employees still refuse to follow policy, they will be terminated. This process will be repeated until the goal of under 5% click-throughs is met.
-This portion will require additional outside research on the topic so that you can lay out a clear and thorough training agenda.
-Bonus: Other Solutions
+
+# Bonus: Other Solutions
+
 Training alone often isn't the entire solution to a security concern.
-Indicate at least two other potential solutions. For each one, indicate the following:
-Encrypting data
-Back up data
 
+1. Indicate at least two other potential solutions. For each one, indicate the following:
+- Encrypting data
+- Back up data
 
+2. What type of control is it? Administrative, technical, or physical?
+- Encrypting data is a technical control
+- Backing up data is also a technical control
 
-What type of control is it? Administrative, technical, or physical?
-Encrypting data is a technical control
-Backing up data is also a technical control
-What goal does this control have? Is it preventive, deterrent, detective, corrective, or compensating?
-Encrypting data is a deterrent control because it discourages cyber criminals from accessing important data
-Backup data is a compensating control because if a breach were to happen, the backup data will help the organization recover after being compromised.
-What is one advantage of each solution?
+3. What goal does this control have? Is it preventive, deterrent, detective, corrective, or compensating?
+- Encrypting data is a deterrent control because it discourages cyber criminals from accessing important data
+- Backup data is a compensating control because if a breach were to happen, the backup data will help the organization recover after being compromised.
+
+4. What is one advantage of each solution?
 The advantage of data encryption is that it separates the data from the device it is stored on. Encryption allows extra security, so administrators can store and transmit data on unsecured networks. This would be a good solution for employees who insist on using their personal devices for work related tasks.
-		The advantage of backing up data is that it is easy and cost effective.
-What is one disadvantage of each solution?
-A disadvantage of data encryption is that it can be expensive due to constant upgrading and the need for more storage capacity of the systems.
-A disadvantage of backing up data is that storage systems, like the cloud, can still be subject to attacks. Once cyber criminals get a hold of the back up data, the organization will lose everything and have a hard time recovering.
 
+The advantage of backing up data is that it is easy and cost effective.
 
+5. What is one disadvantage of each solution?
+
+- A disadvantage of data encryption is that it can be expensive due to constant upgrading and the need for more storage capacity of the systems.
+- A disadvantage of backing up data is that storage systems, like the cloud, can still be subject to attacks. Once cyber criminals get a hold of the back up data, the organization will lose everything and have a hard time recovering.
